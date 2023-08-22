@@ -13,13 +13,16 @@
 <img src="img/3.png">
 
 ## 支持的插件：
-1. Enscan
+1. [Enscan](https://github.com/ifacker/Enscan_jar)
 
 ## 版本：
 ### v1.3 🐶 
 目前软件主体暂时没有什么问题，当然，也有可能是我没发现，总之，欢迎大家提交 Issuse！
 
 ## 其他链接：
+[ToolsKing_github](https://github.com/ifacker/ToolsKing)  
+[ToolsKing_gitee](https://gitee.com/ifacker/ToolsKing)  
+
 [插件开发_github](https://github.com/ifacker/ToolsKing_Plugin "欢迎大家一起前来开发")  
 [插件开发_gitee](https://gitee.com/ifacker/ToolsKing_Plugin "欢迎大家一起前来开发")  
 
