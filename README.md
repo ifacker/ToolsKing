@@ -15,6 +15,7 @@
 
 ## 支持的插件：
 1. [Enscan](https://github.com/ifacker/Enscan_jar)
+2. [Fofa_jar](https://github.com/ifacker/Fofa_jar)
 
 ## 版本：
 
