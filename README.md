@@ -17,8 +17,13 @@
 1. [Enscan](https://github.com/ifacker/Enscan_jar)
 2. [Fofa](https://github.com/ifacker/Fofa_jar)
 3. [EDcode](https://github.com/ifacker/EDcode_jar)
+4. [HttpAndSocks](https://github.com/ifacker/HttpAndSocks_jar)
 
 ## 版本：
+
+### v1.6 🐹
+本次更新：
+1. 更新了配置文件结构，可能会对所有的联网插件产生一定的影响，如果出现错误，请重新下载插件
 
 ### v1.5.2 🐭 
 本次更新的新功能：
