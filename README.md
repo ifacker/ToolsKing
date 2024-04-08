@@ -1,5 +1,9 @@
 # ToolsKing
 ---  
+<a href="https://github.com/ifacker/ToolsKing/releases"><img src="https://img.shields.io/github/downloads/ifacker/ToolsKing/total"> 
+<a href="https://github.com/ifacker/ToolsKing/releases/"><img src="https://img.shields.io/github/v/release/ifacker/ToolsKing.svg">
+
+
 ## 免责声明：
 本网络安全工具仅用于提供技术支持，不涉及任何应用或商业行为。用户在使用本网络安全工具的过程中，不得以任何方式损害他人的合法权益。
 
